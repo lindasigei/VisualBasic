@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\bin\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.exe
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\bin\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.deps.json
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\bin\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.runtimeconfig.json
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\bin\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.dll
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\bin\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.pdb
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF_CHECKOUT_SYSTEM.Form1.resources
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF_CHECKOUT_SYSTEM.Resources.resources
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.AssemblyInfo.vb
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.dll
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\refint\SELF CHECKOUT SYSTEM.dll
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.pdb
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF CHECKOUT SYSTEM.genruntimeconfig.cache
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\ref\SELF CHECKOUT SYSTEM.dll
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF_CHECKOUT_SYSTEM.Buy_a_bag.resources
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF_CHECKOUT_SYSTEM.Cart.resources
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF_CHECKOUT_SYSTEM.Payment.resources
+C:\Users\user\source\repos\SELF CHECKOUT SYSTEM\SELF CHECKOUT SYSTEM\obj\Debug\net8.0-windows\SELF_CHECKOUT_SYSTEM.Search_productID.resources
